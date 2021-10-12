@@ -7,6 +7,8 @@ image:
 categories: [italian, risotto]
 ---
 
+4-6 portions
+
 ## Ingredients
 
 - 2 tbps olive oil
