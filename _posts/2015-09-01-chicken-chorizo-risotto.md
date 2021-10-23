@@ -24,6 +24,10 @@ categories: [italian, risotto]
 - Handful of grated cheese
 - Black pepper
 
+### Extras
+
+- Garlic bread
+
 ## Instructions
 
 1. In a large frying pan, fry the chicken for 3 minutes on a medium heat
@@ -33,5 +37,6 @@ categories: [italian, risotto]
 5. Add chicken stock and passata to saucepan and bring to the boil
 6. Reduce to a simmer and add italian seasoning
 7. Simmer for 25-30 minutes, stirring regularly
-8. To serve, grate cheese over the top and season with black pepper
+8. Serve in a bowl, with self-service black pepper and permesan cheese; and a
+    side of garlic bread
  

@@ -22,6 +22,10 @@ categories: [italian, risotto]
 - 40g Grana Padano (grated)
 - Salt and pepper
 
+### Extras
+
+- Garlic bread
+
 ## Instructions
 
 1. Pour oil into saucepan
@@ -35,4 +39,6 @@ categories: [italian, risotto]
    - Repeat until all stock is absorbed (expect to take 15-20 minutes)
 9. Stir in butter, pesto and Grana Padano cheese
 10. Season well with salt and pepper
+11. Serve in a bowl, with self-service black pepper and permesan cheese; and a
+    side of garlic bread
  
